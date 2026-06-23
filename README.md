@@ -121,7 +121,7 @@ ChurnSenseAI/
 ├── churn.ipynb
 ├── Churn_Modelling.csv
 ├── README.md
-  
+    churn.py
 </pre>
 
 <hr/>
